@@ -3,4 +3,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-streamlit>=1.26.0,<2.0
+streamlit
+imblearn
