@@ -21,12 +21,5 @@ The matrix demonstrates the model's success in distinguishing between legitimate
 <img width="687" height="539" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/71dc8326-e950-49c2-ad4d-57ceb9fb5389" />
 
 ## 🌐 Live Demo
-The application is deployed and available for testing:
-👉 **[Fraud Detection Web App](https://fraud-detection-system-8a.streamlit.app/)**
+**[Fraud Detection Web App](https://fraud-detection-system-8a.streamlit.app/)**
 
-## 🚀 How to Run Locally
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/fraud-detection-system.git](https://github.com/your-username/fraud-detection-system.git)
-cd fraud-detection-system
