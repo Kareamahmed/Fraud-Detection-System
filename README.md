@@ -1,6 +1,6 @@
 # Fraud Detection System 🛡️
 
-A professional Machine Learning-based solution designed to detect fraudulent transactions in real-time. This project leverages advanced classification techniques and features a Streamlit-powered dashboard for immediate risk assessment.
+A Machine Learning-based solution designed to detect fraudulent transactions in real-time using advanced classification techniques and a Streamlit-powered dashboard.
 
 ## 🚀 Project Overview
 Fraudulent transactions cost businesses billions and erode customer trust. This project implements an automated pipeline to flag suspicious activity using historical transaction data. By focusing on data authenticity and balanced distribution, the system provides high-reliability predictions for security teams.
